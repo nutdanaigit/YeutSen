@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">YeutSen</string>
+
+
+    <string name="tutorial_skip">SKIP</string>
+    <string name="tutorial_start">START</string>
+    <string name="tutorial_begin">GOT IT</string>
+    <string name="tutorial_slide_point_1">Main  application</string>
+    <string name="tutorial_slide_desc_1">show many stance to stretch for user to use be example stance in application and have button timer in to alert show dialog to application</string>
+    <string name="tutorial_slide_point_2">Detail application</string>
+    <string name="tutorial_slide_desc_2">detail many stance  stretch to allow users to see each gesture in order to work this application</string>
+    <string name="tutorial_slide_point_3">Summary application</string>
+    <string name="tutorial_slide_desc_3">It is concluded that the information presented many times in stretch</string>
+
+    <string name="textFinish">Finish</string>
+    <string name="current_version">Current version</string>
+    <string name="version">1.0.0</string>
+    <string name="current_detail_about_us">About us</string>
+    <string name="topic">Detail</string>
+    <string name="origin">Origin</string>
+    <string name="benefit">Benefit</string>
+    <string name="credit">Credit</string>
+    <string name="new_message_notification">New message notification</string>
+    <string name="ringtone">Ringtone</string>
+    <string name="ringtone_name">Ringtone name</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="set_time_in_working">Set time in working</string>
+    <string name="set_day_in_working">Set day in working</string>
+    <string name="set_alert_in_working">Set alert in working</string>
+    <string name="edit">Edit</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">SAVE</string>
+    <string name="start">Start</string>
+    <string name="finish">Finish</string>
+    <string name="time_to_show">Set time in working</string>
+    <string name="notification_working">Set notification in working</string>
+    <string name="set_time">Set time</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="notification">Notification</string>
+    <string name="about">About</string>
+    <string name="text_show_welcome">Welcome to YeutSen Application . . .</string>
+</resources>

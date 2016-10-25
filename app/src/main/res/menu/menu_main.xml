@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/set_time"
+        android:id="@+id/mnu_set_time"
+        app:showAsAction="never"/>
+
+    <item
+        android:title="@string/tutorial"
+        android:id="@+id/mnu_tutorial"
+        app:showAsAction="never"/>
+
+    <item
+        android:title="@string/notification"
+        android:id="@+id/mnu_notification"
+        app:showAsAction="never" />
+
+    <item
+        android:title="@string/about"
+        android:id="@+id/mnu_about"
+        app:showAsAction="never" />
+
+
+
+</menu>
